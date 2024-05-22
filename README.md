@@ -8,7 +8,7 @@
 ![ゲーム画面](images/Screenshot_20240522_163939.png)
 
 ## インストール方法
-1. [リリースページ](https://github.com/username/my-android-game/releases)から最新のAPKをダウンロードします。
+1. [リリースページ](app-debug.apk)から最新のAPKをダウンロードします。
 2. APKファイルをAndroidデバイスにインストールします。
 3. ゲームを起動してプレイを開始します。
 
@@ -24,7 +24,7 @@
 ## 開発プロセス
 
 1.ハンズオン形式でゲーム全体を制作
-（https://codeforfun.jp/android-studio-catch-the-ball-intro/）
+[URL](https://codeforfun.jp/android-studio-catch-the-ball-intro/)
 2. ハンズオン以上のものを作りたいと思い追加機能として、BGMを追加
 
 
